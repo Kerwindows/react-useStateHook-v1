@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/react-useStateHook-v1/static/js/main.40de652b.chunk.js",
-    "main.js.map": "/react-useStateHook-v1/static/js/main.40de652b.chunk.js.map",
+    "main.js": "/react-useStateHook-v1/static/js/main.6c4a3961.chunk.js",
+    "main.js.map": "/react-useStateHook-v1/static/js/main.6c4a3961.chunk.js.map",
     "runtime-main.js": "/react-useStateHook-v1/static/js/runtime-main.f83d29d3.js",
     "runtime-main.js.map": "/react-useStateHook-v1/static/js/runtime-main.f83d29d3.js.map",
-    "static/js/2.f51af6e6.chunk.js": "/react-useStateHook-v1/static/js/2.f51af6e6.chunk.js",
-    "static/js/2.f51af6e6.chunk.js.map": "/react-useStateHook-v1/static/js/2.f51af6e6.chunk.js.map",
+    "static/js/2.54388ab6.chunk.js": "/react-useStateHook-v1/static/js/2.54388ab6.chunk.js",
+    "static/js/2.54388ab6.chunk.js.map": "/react-useStateHook-v1/static/js/2.54388ab6.chunk.js.map",
     "index.html": "/react-useStateHook-v1/index.html",
-    "precache-manifest.b7608c092dadb0db463fa2d76ed5076b.js": "/react-useStateHook-v1/precache-manifest.b7608c092dadb0db463fa2d76ed5076b.js",
+    "precache-manifest.8789b4f17418b885447e04b5136218c6.js": "/react-useStateHook-v1/precache-manifest.8789b4f17418b885447e04b5136218c6.js",
     "service-worker.js": "/react-useStateHook-v1/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.f83d29d3.js",
-    "static/js/2.f51af6e6.chunk.js",
-    "static/js/main.40de652b.chunk.js"
+    "static/js/2.54388ab6.chunk.js",
+    "static/js/main.6c4a3961.chunk.js"
   ]
 }

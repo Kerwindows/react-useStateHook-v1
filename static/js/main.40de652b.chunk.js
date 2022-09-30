@@ -1,2 +1,0 @@
-(this["webpackJsonpusestate-hook-practice"]=this["webpackJsonpusestate-hook-practice"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},9:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),c=n(2);var r=function(){return o.a.createElement("div",{className:"container"},o.a.createElement("h1",null,"TIME"),o.a.createElement("button",null,"Get Time"))};n.n(c).a.render(o.a.createElement(r,null),document.getElementById("root"));var l=(new Date).toLocaleTimeString();console.log(l)}},[[3,1,2]]]);
-//# sourceMappingURL=main.40de652b.chunk.js.map
